@@ -9,3 +9,9 @@ And Chip
 
 Xor Chip
 ![Xor](https://github.com/Dhanarooban1/nand2tetris-Part1/assets/146908898/501f674a-d9d3-4c88-bb9c-d40ca2e9246b)
+
+Dmux chip
+![Dmux](https://github.com/Dhanarooban1/nand2tetris-Part1/assets/146908898/d8760b33-bd5a-4f1b-9fbc-4c56c8a006f9)
+
+Mux chip
+![mux](https://github.com/Dhanarooban1/nand2tetris-Part1/assets/146908898/eb56a478-9394-4e22-b779-7488d13f6b3a)
